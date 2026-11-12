@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Martin 👋</h1>
 <p align="center">
   <b>Software Developer · PHP (Laminas/Symfony) · Test Automation · CI/CD</b><br>
@@ -44,4 +44,3 @@
 
 ### 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma-haertel)
-```
